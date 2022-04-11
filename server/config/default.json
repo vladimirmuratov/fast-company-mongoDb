@@ -1,0 +1,6 @@
+{
+  "port": 8080,
+  "connectUri": "mongodb://uizpevbb231byde3citd:7o81J2Fokxb4lNYuGGbg@blextmpumntrtx7-mongodb.services.clever-cloud.com:27017/blextmpumntrtx7",
+  "accessSecret": "super secret from backand",
+  "refreshSecret": "super refresh key"
+}

@@ -1,0 +1,20 @@
+.goBackIcon_wrapper{
+    position: absolute;
+    top: 50%;
+    left: 10%;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+}
+
+.goBackIcon_wrapper:hover{
+    box-shadow: 5px 5px 5px rgba(38, 35, 35, 0.6);
+    border-radius: 50%;
+}
+
+.goBackIcon_wrapper svg {
+    transition: all 0.3s ease 0s;
+}
+
+.goBackIcon_wrapper:hover svg {
+    fill: red;
+}
